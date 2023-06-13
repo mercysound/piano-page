@@ -1,0 +1,58 @@
+.wrapper{
+  width: 50%;
+  height: 100vh;
+  border: 5px solid grey;
+  margin: 0 auto;
+}
+/* logo start here */
+.logo{
+  text-align: center;
+  padding: 5px 0;
+  text-transform: uppercase;
+
+} 
+.logo .the{
+  margin-bottom: 0;
+}
+.logo .ana{
+  margin: 0;
+  font-weight: 300;
+}
+.logo .spec{
+  margin: 0;
+  font-weight: 200;
+}
+
+/* first nav start here */
+.uppernav{
+  /* background-color: yellow; */
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  text-align: center;
+}
+.uppernav .menu{
+  padding: 5px;
+  margin: 0;
+}
+.uppernav .menu li{
+   text-transform: capitalize;
+   display: inline;
+   margin: 0 10px;
+   /* margin-left: 10px; */
+}
+
+/* pianosec start here */
+.pianobox{
+  text-align: center;
+}
+.pianobox img{
+  width: 100px;
+}
+
+/* footer desc start here */
+.desc{
+  width: 95%;
+  margin: auto;
+  text-align: justify;
+  /* border: 5px solid antiquewhite; */
+}
